@@ -12,4 +12,3 @@
 </div>
 
 ![Snake animation](https://github.com/iaschombek/iaschombek/blob/output/github-contribution-grid-snake.svg)
-
